@@ -1,0 +1,8 @@
+Q: What is Java?
+A: Java is a high-level, object-oriented programming language developed by Sun Microsystems (now owned by Oracle). It was designed to be platform-independent, allowing developers to write code once and run it anywhere, thanks to the "Write Once, Run Anywhere" (WORA) principle.
+
+Q: What is the difference between Java and JavaScript?
+A: Despite the similar names, Java and JavaScript are different languages. Java is a full-fledged programming language primarily used for building applications, while JavaScript is a scripting language commonly used for adding interactivity to web pages.
+
+Q: What is the main feature of Java that makes it platform-independent?
+A: Java achieves platform independence through the Java Virtual Machine (JVM). Java code is compiled into an intermediate form called bytecode, which is executed by the JVM on any platform without modification.
